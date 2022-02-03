@@ -1,5 +1,5 @@
 # AYAANT0.github.io
-<br><br><br><br><br><br>
+<br><br><br>
 Credits:
 	Template:
 		HTML5up (html5up.net)
