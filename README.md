@@ -8,6 +8,9 @@ Credits:
 
 	Demo Images:
 		Unsplash (unsplash.com)
+	
+	Banner Image:
+		Shutterstock (shutterstock.com)
 
 	Icons:
 		Font Awesome (fontawesome.io)
